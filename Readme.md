@@ -18,7 +18,7 @@ Our interests are highly tied to our research fields. We are interested in the f
 | ------------- | ------------------------ | ------------------------------ | ------------------- |
 | 6. Nov. 2017  | A. Keshav                | How to Read a Paper            |                     |
 | 21. Nov. 2017 | D. Chaum                 | Group Signatures               |                     |
-| 12. Dec. 2017 | W. Diffie, M. E. Hellman | New Directions in Cryptography |                     |
+| 12. Dec. 2017 | W. Diffie, M. E. Hellman | New Directions in Cryptography | [PDF](https://www-ee.stanford.edu/~hellman/publications/24.pdf), [Citation](https://dl.acm.org/citation.cfm?id=2269104) |
 
 
 
