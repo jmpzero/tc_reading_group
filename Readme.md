@@ -40,4 +40,3 @@ Our last point is a discussion on the writing style of the paper. We try to iden
 We hope that you can find some interesting information on this page. If you have any comments, please feel free to contact us here on GitHub.
 
 ### Todos
-* [ ] Implement a backlog of interesting papers in our queue (use repo issues for this?)
