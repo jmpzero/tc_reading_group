@@ -4,7 +4,7 @@ This file contains a protocol of all the papers we have read and discussed toget
 
 ## Goal
 
-The goal of this reading hour is to make us get better understanding of what we are reading. We try to review the paper as good as possible and discuss our different viewpoints on the paper in our group. We expect the outcome for us to get better at a) reading, b) understanding, c) reviewing, and d) discussions about a certain topic. 
+The goal of this reading hour is to make us get better understanding of what we are reading. We try to review the paper as good as possible and discuss our different viewpoints on the paper in our group. We expect the outcome for us to get better at a) reading, b) understanding, c) reviewing, and d) discussions about a certain topic.
 
 ## Interests
 
@@ -19,7 +19,8 @@ Our interests are highly tied to our research fields. We are interested in the f
 | 6. Nov. 2017  | A. Keshav                | How to Read a Paper            |                     |
 | 21. Nov. 2017 | D. Chaum                 | Group Signatures               |                     |
 | 12. Dec. 2017 | W. Diffie, M. E. Hellman | New Directions in Cryptography | [PDF](https://www-ee.stanford.edu/~hellman/publications/24.pdf), [Citation](https://dl.acm.org/citation.cfm?id=2269104) |
-| 16. Jan. 2018 | T. ElGamal | A public key cryptosystem and a signature scheme based on discrete logarithms  | [PDF (IEEE)](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1057074), [PDF](http://people.csail.mit.edu/alinush/6.857-spring-2015/papers/elgamal.pdf) [Citation](https://dl.acm.org/citation.cfm?id=19478.19480) |
+| 16. Jan. 2018 | T. ElGamal               | A public key cryptosystem and a signature scheme based on discrete logarithms  | [PDF (IEEE)](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1057074), [PDF](http://people.csail.mit.edu/alinush/6.857-spring-2015/papers/elgamal.pdf) [Citation](https://dl.acm.org/citation.cfm?id=19478.19480) |
+| 8. Feb. 2018  | EJ. Goh                  | Secure Indexes | [PDF](https://eprint.iacr.org/2003/216.pdf) |
 
 
 
@@ -40,4 +41,5 @@ Our last point is a discussion on the writing style of the paper. We try to iden
 
 We hope that you can find some interesting information on this page. If you have any comments, please feel free to contact us here on GitHub.
 
+A
 ### Todos
