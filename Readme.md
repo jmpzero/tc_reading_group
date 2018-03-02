@@ -14,14 +14,14 @@ Our interests are highly tied to our research fields. We are interested in the f
 * Privacy Enhancing Technologies
 * Web Technologies
 
-| Date          | Author(s)                | Paper                          | Link (if available) |
-| ------------- | ------------------------ | ------------------------------ | ------------------- |
-| 6. Nov. 2017  | A. Keshav                | How to Read a Paper            |                     |
-| 21. Nov. 2017 | D. Chaum                 | Group Signatures               |                     |
-| 12. Dec. 2017 | W. Diffie, M. E. Hellman | New Directions in Cryptography | [PDF](https://www-ee.stanford.edu/~hellman/publications/24.pdf), [Citation](https://dl.acm.org/citation.cfm?id=2269104) |
-| 16. Jan. 2018 | T. ElGamal               | A public key cryptosystem and a signature scheme based on discrete logarithms  | [PDF (IEEE)](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1057074), [PDF](http://people.csail.mit.edu/alinush/6.857-spring-2015/papers/elgamal.pdf) [Citation](https://dl.acm.org/citation.cfm?id=19478.19480) |
-| 8. Feb. 2018  | EJ. Goh                  | Secure Indexes | [PDF](https://eprint.iacr.org/2003/216.pdf) |
-|               | G. Zyskind, et. al.      | Decentralizing Privacy | [PDF](https://homepage.cs.uiowa.edu/~ghosh/blockchain.pdf) |
+| Date           | Author(s)                | Paper                          | Link (if available) |
+| -------------- | ------------------------ | ------------------------------ | ------------------- |
+| 6. Nov. 2017   | A. Keshav                | How to Read a Paper            |                     |
+| 21. Nov. 2017  | D. Chaum                 | Group Signatures               |                     |
+| 12. Dec. 2017  | W. Diffie, M. E. Hellman | New Directions in Cryptography | [PDF](https://www-ee.stanford.edu/~hellman/publications/24.pdf), [Citation](https://dl.acm.org/citation.cfm?id=2269104) |
+| 16. Jan. 2018  | T. ElGamal               | A public key cryptosystem and a signature scheme based on discrete logarithms  | [PDF (IEEE)](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1057074), [PDF](http://people.csail.mit.edu/alinush/6.857-spring-2015/papers/elgamal.pdf) [Citation](https://dl.acm.org/citation.cfm?id=19478.19480) |
+| 8. Feb. 2018   | EJ. Goh                  | Secure Indexes | [PDF](https://eprint.iacr.org/2003/216.pdf) |
+| 13. March 2018 | G. Zyskind, et. al.      | Decentralizing Privacy | [PDF](https://homepage.cs.uiowa.edu/~ghosh/blockchain.pdf) |
 
 
 
